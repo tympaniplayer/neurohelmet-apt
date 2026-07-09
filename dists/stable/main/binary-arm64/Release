@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Neurohelmet
+Label: Neurohelmet
+Architecture: arm64
+Description: Neurohelmet apt repository

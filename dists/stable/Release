@@ -1,0 +1,29 @@
+Origin: Neurohelmet
+Label: Neurohelmet
+Suite: stable
+Codename: stable
+Date: Thu, 09 Jul 2026 01:41:55 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Neurohelmet apt repository
+MD5Sum:
+ 09fe8f7976ad35879574b839c130d051 846 main/binary-amd64/Packages
+ 166292b1260d67b7d4d78930ff36e08c 556 main/binary-amd64/Packages.gz
+ 4258a6de000a5a2ab264dff0ddd435d8 131 main/binary-amd64/Release
+ 2c30b393455f458097ecb91c90e5fb8b 852 main/binary-arm64/Packages
+ c8732d6c01304b3f927d89774df4117d 559 main/binary-arm64/Packages.gz
+ b8ca56130aa8a39d6c1b119e6626b12b 131 main/binary-arm64/Release
+SHA1:
+ b56957938a0b5939550ef91cfdd6473a1f5bc99e 846 main/binary-amd64/Packages
+ 7028b9873805e83865fb3c0af25c422a72a4f95b 556 main/binary-amd64/Packages.gz
+ 0c37d35641fd2797737011337278b7007b002482 131 main/binary-amd64/Release
+ d78185898f8687b8052fe9d94478e6e9ebf0581d 852 main/binary-arm64/Packages
+ 791c991a13e79be0d57cfdff03af36dacb9e616a 559 main/binary-arm64/Packages.gz
+ 30871e60951b91eff3b30606054b1a78dab66ed3 131 main/binary-arm64/Release
+SHA256:
+ eb1cf5e4691d12cf60497cb96508c8b00f66161b931b2aa54f027619ea03b405 846 main/binary-amd64/Packages
+ 2bc16ad9fcc2a5a2dfeca4870084ffba8be987500ae99714414775d4178fad03 556 main/binary-amd64/Packages.gz
+ 6118a1a71354e5a7628502f0b8206bd36bddc1d4ec69dfd1b7d47a1a1ff6883d 131 main/binary-amd64/Release
+ c290ca8fa021e314ff73803a8719902b0a6ea27fb8faccd5f6c7bb3259c87e3f 852 main/binary-arm64/Packages
+ 4e43f4a827d0ba9d181bf5586953b59feb033343010549963276a3bdf01cdf21 559 main/binary-arm64/Packages.gz
+ 45c00e260f45f182c7e0ae24f4845a61652201b13bb20ae1f418b240d0a9f60a 131 main/binary-arm64/Release
