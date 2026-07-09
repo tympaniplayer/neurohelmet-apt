@@ -1,17 +1,17 @@
 Package: neurohelmet
-Version: 0.1.1-1
+Version: 0.1.2-1
 Architecture: arm64
 Homepage: https://github.com/tympaniplayer/neurohelmet
 Maintainer: Nate Palmer <nate@natedpalm.com>
-Installed-Size: 20706
+Installed-Size: 20711
 Depends: libc6:arm64 (>= 2.35)
 Priority: optional
 Section: games
-Filename: pool/main/n/neurohelmet/neurohelmet_0.1.1-1_arm64.deb
-Size: 3725348
-SHA256: 00ad4181b72defde0d8a2910bf0b3e3888ae2d06152723046dbe88ebab6014af
-SHA1: 288883017948ab1fdcaa241f336714292ab4c2dc
-MD5sum: 1a49827c2e9fe7f5898220eb29a9f5ec
+Filename: pool/main/n/neurohelmet/neurohelmet_0.1.2-1_arm64.deb
+Size: 3725216
+SHA256: bdc29cf3a8a492dad62658ed743422ef50b8a0208f1edd95773fc75b569c9323
+SHA1: fdcc89f0160a4362b675ee8d93accbaed2fb822b
+MD5sum: 56f032a8fe45d59e6678479a02e9b1bf
 Description: Keyboard-driven terminal BattleTech record-sheet tracker (Classic, Alpha
  Strike, and more).
  Neurohelmet is a keyboard-driven terminal (TUI) tracker for BattleTech record

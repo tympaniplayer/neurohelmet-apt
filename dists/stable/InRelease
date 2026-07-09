@@ -5,44 +5,44 @@ Origin: Neurohelmet
 Label: Neurohelmet
 Suite: stable
 Codename: stable
-Date: Thu, 09 Jul 2026 13:51:40 UTC
+Date: Thu, 09 Jul 2026 14:03:55 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Neurohelmet apt repository
 MD5Sum:
- be162208fc00affb67340451b083a51b 846 main/binary-amd64/Packages
- 58fea9cb3bd0c2f7adaf2247fbe47aa5 556 main/binary-amd64/Packages.gz
+ ab827e439e3292782dd5c2524c057c26 846 main/binary-amd64/Packages
+ bbd5632dbc537ed0132de71d199af5d0 555 main/binary-amd64/Packages.gz
  4258a6de000a5a2ab264dff0ddd435d8 131 main/binary-amd64/Release
- 3c9693022a91a534e23dd2b18dd7cdf1 852 main/binary-arm64/Packages
- 366faf73e7b6a41fb7c05016d481671a 558 main/binary-arm64/Packages.gz
+ 500afcad4493d36d27cdf14d4ec8da5b 852 main/binary-arm64/Packages
+ cc88c01d736d8b33f0c166d552583e35 557 main/binary-arm64/Packages.gz
  b8ca56130aa8a39d6c1b119e6626b12b 131 main/binary-arm64/Release
 SHA1:
- 7d729dc4f8fed4671e5054ee4e1e740c78da53ec 846 main/binary-amd64/Packages
- d3d566f125d94a63b1e42d5ba7eb0edbaca08f9b 556 main/binary-amd64/Packages.gz
+ 5cb767cad2a9af0375bcbb92b74b8f984edddbef 846 main/binary-amd64/Packages
+ 5595d059211f3d294f8f062548915d883355bc31 555 main/binary-amd64/Packages.gz
  0c37d35641fd2797737011337278b7007b002482 131 main/binary-amd64/Release
- f80ec1fc1b9d139a648b2281f5c33d7fe7e08b50 852 main/binary-arm64/Packages
- 503da2a3dffd5efb87ca0368485100a5d4c13f91 558 main/binary-arm64/Packages.gz
+ 7a753453eb4c64043755e279cb46d64da65f472a 852 main/binary-arm64/Packages
+ e787d85dc66f556d0d9787b4df892f9fae05ec2d 557 main/binary-arm64/Packages.gz
  30871e60951b91eff3b30606054b1a78dab66ed3 131 main/binary-arm64/Release
 SHA256:
- b55f918db663aa387c758ada35b0ce513083d53a8cf8a1f1639e7cddbde30462 846 main/binary-amd64/Packages
- ee15390e9fb15db15ede3aa77b7963278c1bd623eba19e44767edbc3904bd546 556 main/binary-amd64/Packages.gz
+ fa61e9885430e9149baabbe5d111481a49efe1a5a99d8aaf7b43a61a684bc4be 846 main/binary-amd64/Packages
+ 7cd1a0bb87ca4dbfdf6aab3f4a206850d388917032b4ef0d126e8270997e63fd 555 main/binary-amd64/Packages.gz
  6118a1a71354e5a7628502f0b8206bd36bddc1d4ec69dfd1b7d47a1a1ff6883d 131 main/binary-amd64/Release
- a3dc0b726ad8d975004c1547c9fd165512af447ddd3a44c8561543c05c96f3f3 852 main/binary-arm64/Packages
- e385737002e7673f2bfcb39d09ac582c84b4c6c906e566625b14c54528663a1f 558 main/binary-arm64/Packages.gz
+ 78dd8c0249413c9ad333d95cf3be79c0a4573850e5b36e588895fc70030b387f 852 main/binary-arm64/Packages
+ e20cd1814e793a9e2203d8d9f1c6df338490120d18c623bb135e0bd6294cb2f7 557 main/binary-arm64/Packages.gz
  45c00e260f45f182c7e0ae24f4845a61652201b13bb20ae1f418b240d0a9f60a 131 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE81uE+oSqu4bkUqHlT7nn0YBXv8sFAmpPp2wACgkQT7nn0YBX
-v8v0+hAAu+z8tCpkivWyGVhHxLfOjaXpbkaKQqX+MlXwZd2OAFrW1/Sn+QLk/e9j
-K/8wwLks7GoWN0/1SR7QTqcVVXBXynTQBuczBjCe37OwNv5m6fMX15D9Hxw86uCg
-kCEHurIUxKTv24RMdfZ3bss0smPavo6iw+Db/COotB9BvkdNDf+2jecgrbVAC44P
-ANmt+uS2xLsWCwILNemLoXMtR6oxJ4MjVu/3wh9GrBuls88OsylXfqxoAK/YbnD5
-4IT995GtqIE6CgWNrpDufdtPaOOeBFKoD3Qj5I8VdFVHbvem7OavEwEf9UpdxX6e
-9D3ztf/0JZ8WQwA0uQG7O09Nwv+dbjDSmtwJISR16YWL9g1zzPB5XJIVzbZDTj+u
-js52kk562RwVXlMs1YdTwY5kIWsklHBWLhSnBii/35SRE9+3DSpy7aPrfAL6magM
-p8rZWXTXQ5Xqxytt4Mcywiib1gGm6UrJ1ZfvbI30mV1AOKL0QNH4OgENt/HEBx94
-P2jMwFRpTWXgOA28Xxz1XLn8uZfVVKC7In/PJTUazeSTciLsb0GOPT4/4yQOuLbW
-lEf4AHY+dddGwdlGmLRuMCHMsYnUdgJNC9CRk1OQ/Tqe6StmWp5lcWSZrgHnUqWv
-Gi5kKh785qes1B3dDifvZwKaaev406vXO+1KbJ6OVlM/kiX11Zo=
-=wrCy
+iQIzBAEBCgAdFiEE81uE+oSqu4bkUqHlT7nn0YBXv8sFAmpPqksACgkQT7nn0YBX
+v8vStQ/9G3/xaZVe0f1oIvn/8/ABOHg/HKrTN63hUmamjJ81G5qI46i6SeAHMiXA
+lekUObeuP4hFX2rC2WMd4z+3VhkFPptPQAo6HfTyiukXqMHy2ZCLhm4lFGJs+lXa
+UMPuGrW+lh0K7xREg3l/Q9ccT8n8qj9Ed3pexUjGJfOLS3GBpx4bRqBKx9ktzSXw
+GJNv9s+Wk3A2P7U2xRaF7gSEvXyYvHLNc8YX2K576+oYs4InXtdz7Z5pR1hO4mWP
+kxI/qcsfp06FBwZVLRJTCbu/sbMMOvp407ZhG2ik2N6KnwAjHGax4u0JKwTuftYk
+boVr0EH9rBqJmH9J6R0l5xnI9e8GbsJiBoCLgCdgzpJFuAuLR0Pe4fbC6YUV0MXl
+cYn1XncfG8Smm+NyiaFUJZ7PNfgRlXfXlW1ZCu3xDg0mrxGLMo5A9ic9LSzwlvrN
+1/1F6tp9ah0NCnnVFzeraWtb7Spl5oXQ8RlRWxptAkuGtHdxAmt+SmhEc8s0AV03
+dH9PEj9Bog7hfb4UlM8aYWbemZo7b67XvBAonNqyMs2Q+3jDE1PjwEMwgKppvGlr
+P3T4q7Mn3TFUzaQA4o4kOe27+24Z9r7OQof9i2cBZ5PtVUF77y2d83uJi5S/0vCi
+5Ks/U7zE754ZQzMlo6xfusCfsXhELMpqEKBO8PWvEBxbJ5+N6xo=
+=wPEo
 -----END PGP SIGNATURE-----
