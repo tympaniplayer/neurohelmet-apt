@@ -5,44 +5,44 @@ Origin: Neurohelmet
 Label: Neurohelmet
 Suite: stable
 Codename: stable
-Date: Sat, 11 Jul 2026 16:11:27 UTC
+Date: Sun, 12 Jul 2026 16:33:59 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Neurohelmet apt repository
 MD5Sum:
- fcb5a1fa0aede2415902f86fd1ba32d3 846 main/binary-amd64/Packages
- b8679f9fad89a9fef5c6c348fdb17b35 552 main/binary-amd64/Packages.gz
+ 816912ce052ed5ca79b9ae6f8894c1d4 846 main/binary-amd64/Packages
+ e8f7bb18a5604215e45815a1bb1a686e 553 main/binary-amd64/Packages.gz
  4258a6de000a5a2ab264dff0ddd435d8 131 main/binary-amd64/Release
- 8688e884ac9ee744d5834d7698d8e5ec 852 main/binary-arm64/Packages
- 6f92c04c7cfa02a056fa801e12de1314 559 main/binary-arm64/Packages.gz
+ 04842c0138ee086f37d6079384271e9a 852 main/binary-arm64/Packages
+ 257081b2d55a435f5c800b5d95a8dfee 557 main/binary-arm64/Packages.gz
  b8ca56130aa8a39d6c1b119e6626b12b 131 main/binary-arm64/Release
 SHA1:
- ac8a300094ba0248dcce71bd3b54768d3c13ece2 846 main/binary-amd64/Packages
- 4caf67ca61464414c8e1f5a9b574dea361159d3d 552 main/binary-amd64/Packages.gz
+ e55d764f2a16b125c4c405de79ecd2de9622574b 846 main/binary-amd64/Packages
+ b0ca521285b863c3527c8287625b898d68301616 553 main/binary-amd64/Packages.gz
  0c37d35641fd2797737011337278b7007b002482 131 main/binary-amd64/Release
- a4bb08eda30f800c626482e0cd7e6f8c057ec436 852 main/binary-arm64/Packages
- 1e6065f556bfc4a329a71f44b13d0454fd17df59 559 main/binary-arm64/Packages.gz
+ dc40cdd18548900462f5bd99a71b0f00301c62f7 852 main/binary-arm64/Packages
+ 9d775ed6530f3690f158687acf4d02345f6d4a50 557 main/binary-arm64/Packages.gz
  30871e60951b91eff3b30606054b1a78dab66ed3 131 main/binary-arm64/Release
 SHA256:
- b030dcfdada68e937f62b10151a5259cad66b4fd3919b917efee3d1fea1c5495 846 main/binary-amd64/Packages
- 5383dff6734de5dd1970871be7e4425c3db6e2a62e3beed7cbc0dc00c1cbbd4e 552 main/binary-amd64/Packages.gz
+ 7d346ad1e15ca63dd1dcc1bd9199282fa7e1593682a32a36f869174ef8301beb 846 main/binary-amd64/Packages
+ 9209b0a8d93572434e3eebf9f2e2d0a7e60ed21b2f0cb650a8f0e91011b6b81e 553 main/binary-amd64/Packages.gz
  6118a1a71354e5a7628502f0b8206bd36bddc1d4ec69dfd1b7d47a1a1ff6883d 131 main/binary-amd64/Release
- 5ae7a006e8efa5b97ca11d6b86bfdee0d03c0eeaa9e6a04e9cdaf1074c227560 852 main/binary-arm64/Packages
- d587e988ecde2bc449842de3afaa008427159c2c864517c42e0977a06d26c5bb 559 main/binary-arm64/Packages.gz
+ af6d8449c890df959da756a5d4b6f76ccdca7d7afec901f8cacc9b5c335b4f9b 852 main/binary-arm64/Packages
+ d6894a9d23c33f63e69535f327c93e56633b4285643b14708670b0d21f85ecdd 557 main/binary-arm64/Packages.gz
  45c00e260f45f182c7e0ae24f4845a61652201b13bb20ae1f418b240d0a9f60a 131 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE81uE+oSqu4bkUqHlT7nn0YBXv8sFAmpSay8ACgkQT7nn0YBX
-v8uBchAArZysfOHGFXFpPPhmFbX24o8LcDd+R7h1LLEBkP4S52lgbUP8I2O865h9
-cOX051yFfdc+euag+KvGXmifQJlHlaRt28BcfXoObtYbhvXEzcisifidUTYrNHxj
-/uqKLkEIreDCH7OeKVpcdhLF2TSfoffzClZmMKW0cQInTmORMbqOlwMtfOuIjg7d
-1kWgTdNy+bu0T2q7lKA9fCKBCoaB6WDmXYnENKElmFtwh+km3dMZVNAt6TG2juc0
-HYRsuyLK7P+iskA/6WtP32PR8sr4ZuL/YqxQmzb6S/D1o9Vff9E9B25uiZYS/LvB
-fGZNek3pSL5bFUogp63GHf82Xz79tm9z3SFaXcJs1Kn1HBn9XJEE/REbZDzOCelj
-uGKtT99IZv8SMuLZhrW12L10F5hoGAMb12kipQLrewLO//ygepmQN0EL2EMgPnfY
-OrDwtTFsN8HCrRiJC6NxHeGsXmGdrsj7tFF9tWZa7NwsZM4LcDTAThQf0tRvneiw
-YGyaVvxxeo2VFfjY/b14D2Bv1XCCb3pPyNnWxPDbpkCcdaJH3eRxnjAvv4zUSQyo
-8ipZrP4f3nVw8Rl2V3iOTw+bTGKE31PSfwxm9k04KRJ5iw8LJ+IYlCKTVZLpVUYR
-gFpi71podz4FkZ5y0RGKbFwsFydRS/Ro1r1wfIVlLDBeHEBoQ8E=
-=XKUb
+iQIzBAEBCgAdFiEE81uE+oSqu4bkUqHlT7nn0YBXv8sFAmpTwfcACgkQT7nn0YBX
+v8t7mQ//R6EW3But6v7USxY93Xw9AI5brqWpbyx+aPMcNRAf7rpF3V+ozxSVAQag
+vw2IObOaDrGKn3JCKA+CEt/Q19UbIfAnDNQ6xzAyS0pkusQSRlHLe2p+NKgTuvQ0
+hQZg61VwyWS8W6lUQuP3lpFnqnfttJMpUI9wVQIfpLplyCcfyRXBdVs/t8Zj7509
+9cTA6WvgaplSNtizIFYuJwIOWLtGAoyxUyck96BfL2OEj+GCc72NFhKPh/B3UqkD
+b028CX2f8U99FOFfkhNjBKFtgPquvSedb8fXHs8sC9L+yXQnB00tLblo4LmNsNUj
+jEKGSlDcS2mWN091e+o7FJA6fDg9ImjJOp3OBHHNOgZgRVm0H5AbyNUlk3ssznA2
+tEkKG5Dd4xsiU0eze0TAuTR2JSsD+wWHw6Ka6KlA/TzDQBAPfutqiHUiFFK2m3PP
+Hwa5UcnfjG1NcsRed6b5kUaVtKvlZ+T9LgZ3j0ngk9x5LzZY6mJBRLONsayy7NAc
+CvaInaKyuuxNrdAkDIYpmgyuVsLWCVu7BTCjpDa+5TpfEzN92kx979JdaAHHG7gv
+MXo9wJSR4FrY6ognEbjiGlwqyIxo8Sla2ZqbnopiHqe+8zXgKIgnejmuJ/sXrgb1
+L3jdOROSdldJNi4wDvi+gEsU7YSoesYRilHeaz3xYWnwI3wRxUI=
+=BS1E
 -----END PGP SIGNATURE-----
