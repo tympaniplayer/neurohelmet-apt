@@ -5,44 +5,44 @@ Origin: Neurohelmet
 Label: Neurohelmet
 Suite: stable
 Codename: stable
-Date: Sun, 12 Jul 2026 16:33:59 UTC
+Date: Mon, 13 Jul 2026 13:58:50 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Neurohelmet apt repository
 MD5Sum:
- 816912ce052ed5ca79b9ae6f8894c1d4 846 main/binary-amd64/Packages
- e8f7bb18a5604215e45815a1bb1a686e 553 main/binary-amd64/Packages.gz
+ 475ce33065ce8729e8535e802e908444 846 main/binary-amd64/Packages
+ 46bd000fb37043968889f11694cf7a75 552 main/binary-amd64/Packages.gz
  4258a6de000a5a2ab264dff0ddd435d8 131 main/binary-amd64/Release
- 04842c0138ee086f37d6079384271e9a 852 main/binary-arm64/Packages
- 257081b2d55a435f5c800b5d95a8dfee 557 main/binary-arm64/Packages.gz
+ 441b0fa4592c4556723eaa0b01d3754e 852 main/binary-arm64/Packages
+ c9ef5cf21d992501fb46bed30f8eca20 557 main/binary-arm64/Packages.gz
  b8ca56130aa8a39d6c1b119e6626b12b 131 main/binary-arm64/Release
 SHA1:
- e55d764f2a16b125c4c405de79ecd2de9622574b 846 main/binary-amd64/Packages
- b0ca521285b863c3527c8287625b898d68301616 553 main/binary-amd64/Packages.gz
+ 18cc29168ea55adfdf48ae01c787b75f143855b0 846 main/binary-amd64/Packages
+ d5ef8d3ab014708f46fc2a8ff59e0bdc1763fee8 552 main/binary-amd64/Packages.gz
  0c37d35641fd2797737011337278b7007b002482 131 main/binary-amd64/Release
- dc40cdd18548900462f5bd99a71b0f00301c62f7 852 main/binary-arm64/Packages
- 9d775ed6530f3690f158687acf4d02345f6d4a50 557 main/binary-arm64/Packages.gz
+ bb1cb40d6d51142b9abaabe0a5efbada037181e2 852 main/binary-arm64/Packages
+ 480601bb749541851190342a55c1ebb22deaa68f 557 main/binary-arm64/Packages.gz
  30871e60951b91eff3b30606054b1a78dab66ed3 131 main/binary-arm64/Release
 SHA256:
- 7d346ad1e15ca63dd1dcc1bd9199282fa7e1593682a32a36f869174ef8301beb 846 main/binary-amd64/Packages
- 9209b0a8d93572434e3eebf9f2e2d0a7e60ed21b2f0cb650a8f0e91011b6b81e 553 main/binary-amd64/Packages.gz
+ 20420be1eb828e2e3c2c2a306975b1ba725e93d9651ca4ac5574238ac4eafce8 846 main/binary-amd64/Packages
+ 9273ae5d3aa0f3cfda9818422328559c0c3847ced4021fa8df0a1863fa485f1a 552 main/binary-amd64/Packages.gz
  6118a1a71354e5a7628502f0b8206bd36bddc1d4ec69dfd1b7d47a1a1ff6883d 131 main/binary-amd64/Release
- af6d8449c890df959da756a5d4b6f76ccdca7d7afec901f8cacc9b5c335b4f9b 852 main/binary-arm64/Packages
- d6894a9d23c33f63e69535f327c93e56633b4285643b14708670b0d21f85ecdd 557 main/binary-arm64/Packages.gz
+ 046612c42b64491d8c592495c77789b611c1225f215aa967b8bc0226d4b77d70 852 main/binary-arm64/Packages
+ ad2c695390f445d174e7f8ac35de8b3c3ee921864caf640cbd45da449e881382 557 main/binary-arm64/Packages.gz
  45c00e260f45f182c7e0ae24f4845a61652201b13bb20ae1f418b240d0a9f60a 131 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE81uE+oSqu4bkUqHlT7nn0YBXv8sFAmpTwfcACgkQT7nn0YBX
-v8t7mQ//R6EW3But6v7USxY93Xw9AI5brqWpbyx+aPMcNRAf7rpF3V+ozxSVAQag
-vw2IObOaDrGKn3JCKA+CEt/Q19UbIfAnDNQ6xzAyS0pkusQSRlHLe2p+NKgTuvQ0
-hQZg61VwyWS8W6lUQuP3lpFnqnfttJMpUI9wVQIfpLplyCcfyRXBdVs/t8Zj7509
-9cTA6WvgaplSNtizIFYuJwIOWLtGAoyxUyck96BfL2OEj+GCc72NFhKPh/B3UqkD
-b028CX2f8U99FOFfkhNjBKFtgPquvSedb8fXHs8sC9L+yXQnB00tLblo4LmNsNUj
-jEKGSlDcS2mWN091e+o7FJA6fDg9ImjJOp3OBHHNOgZgRVm0H5AbyNUlk3ssznA2
-tEkKG5Dd4xsiU0eze0TAuTR2JSsD+wWHw6Ka6KlA/TzDQBAPfutqiHUiFFK2m3PP
-Hwa5UcnfjG1NcsRed6b5kUaVtKvlZ+T9LgZ3j0ngk9x5LzZY6mJBRLONsayy7NAc
-CvaInaKyuuxNrdAkDIYpmgyuVsLWCVu7BTCjpDa+5TpfEzN92kx979JdaAHHG7gv
-MXo9wJSR4FrY6ognEbjiGlwqyIxo8Sla2ZqbnopiHqe+8zXgKIgnejmuJ/sXrgb1
-L3jdOROSdldJNi4wDvi+gEsU7YSoesYRilHeaz3xYWnwI3wRxUI=
-=BS1E
+iQIzBAEBCgAdFiEE81uE+oSqu4bkUqHlT7nn0YBXv8sFAmpU7xoACgkQT7nn0YBX
+v8u+6BAAtHc4tR5JTHdkg6WNBKxnHW018StqT+Bdk7OtqKlLSwrqQ7be+zMiNM50
+/yS/Tdfw3+fQ4HDFPRX+5nJuIx6tPB7elgqmoMucLHsQGFzm/Eb/kssU0h3FeYTl
+I7j0R4MbUDFDtROJss6rtL1hiiw4U5b7mIJ9TwEgJ2YvY6Ea1Y1+sKM1wI2CSVMY
+vUtVc73WhbIAupAnwxPjenLzLFOvDcoaIgInnS7GxlBP3Q0xZT6/Y9ClFKJfDrvV
+k3bUpgdb6PqcOf/RJMTs5Tnf3bKIcPz7HpKwjcpMgzeENza3p9NQbFJk+5dHWygB
+huy9VyBFiwfX0oVV5IoirzFYFP812l7nUNbnofm3VG5N+OpQSa32HvGg6q4v64NA
+bv5KL4trqmZdrJ1PXRw7AswitSormyzC0hNCyWteJnEi0RyDjTC1nWp1z9vt4xd+
+hAvx+3Z6VDoFBAsVsy4zd0Hh7PbiRxPvb87N+Gwy7t9tF4BozC3rR4+JJaPy5WTD
+yaO8qoEf3W2dILyY/SQ4kmBTUwwocu0PSBWtuBEMntFWgizTxzQmUzCfPauRm+e7
+SYrIoYcBmtH2D0DVsBpWFvO360Qquyy0KFupoKqrkkrsOhcUdpjxKqBpkg8uXBQG
+pIwTpV5y6pBpY1AgzjT6sElhPD0LcbB+mZw/igCH0u6RmFNYQaA=
+=poWu
 -----END PGP SIGNATURE-----
