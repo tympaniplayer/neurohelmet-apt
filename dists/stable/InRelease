@@ -5,44 +5,44 @@ Origin: Neurohelmet
 Label: Neurohelmet
 Suite: stable
 Codename: stable
-Date: Mon, 13 Jul 2026 13:58:50 UTC
+Date: Wed, 15 Jul 2026 21:23:09 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Neurohelmet apt repository
 MD5Sum:
- 475ce33065ce8729e8535e802e908444 846 main/binary-amd64/Packages
- 46bd000fb37043968889f11694cf7a75 552 main/binary-amd64/Packages.gz
+ 346211f2080a3d674559836d9e4f8019 846 main/binary-amd64/Packages
+ d5e74451c0e275e966044b88dffdb743 555 main/binary-amd64/Packages.gz
  4258a6de000a5a2ab264dff0ddd435d8 131 main/binary-amd64/Release
- 441b0fa4592c4556723eaa0b01d3754e 852 main/binary-arm64/Packages
- c9ef5cf21d992501fb46bed30f8eca20 557 main/binary-arm64/Packages.gz
+ 8b0dfc0781b26a299d3cfd2b8df55316 852 main/binary-arm64/Packages
+ 15450cfdcfcf0732a6738ac6ce117c14 559 main/binary-arm64/Packages.gz
  b8ca56130aa8a39d6c1b119e6626b12b 131 main/binary-arm64/Release
 SHA1:
- 18cc29168ea55adfdf48ae01c787b75f143855b0 846 main/binary-amd64/Packages
- d5ef8d3ab014708f46fc2a8ff59e0bdc1763fee8 552 main/binary-amd64/Packages.gz
+ e081b3f5949797e8dd47f4fe29f268f85692cdd8 846 main/binary-amd64/Packages
+ b841672ed15929e8044fc4513eac0527c294481e 555 main/binary-amd64/Packages.gz
  0c37d35641fd2797737011337278b7007b002482 131 main/binary-amd64/Release
- bb1cb40d6d51142b9abaabe0a5efbada037181e2 852 main/binary-arm64/Packages
- 480601bb749541851190342a55c1ebb22deaa68f 557 main/binary-arm64/Packages.gz
+ 6382117ba52646b0f126cbeb8c8819d2c5d08782 852 main/binary-arm64/Packages
+ d34a48a6ef5bc7a94b4ec5f8afaffd1ddef81a38 559 main/binary-arm64/Packages.gz
  30871e60951b91eff3b30606054b1a78dab66ed3 131 main/binary-arm64/Release
 SHA256:
- 20420be1eb828e2e3c2c2a306975b1ba725e93d9651ca4ac5574238ac4eafce8 846 main/binary-amd64/Packages
- 9273ae5d3aa0f3cfda9818422328559c0c3847ced4021fa8df0a1863fa485f1a 552 main/binary-amd64/Packages.gz
+ 934ba6e10a2f6e10a16cdc9effefaba8975e2730213fe624ab061c863ae20c81 846 main/binary-amd64/Packages
+ 373f1347bae30184e211807e7521f02d9025b2a58357c81b2386a54ad59ecb4d 555 main/binary-amd64/Packages.gz
  6118a1a71354e5a7628502f0b8206bd36bddc1d4ec69dfd1b7d47a1a1ff6883d 131 main/binary-amd64/Release
- 046612c42b64491d8c592495c77789b611c1225f215aa967b8bc0226d4b77d70 852 main/binary-arm64/Packages
- ad2c695390f445d174e7f8ac35de8b3c3ee921864caf640cbd45da449e881382 557 main/binary-arm64/Packages.gz
+ 2b9e71ecfe9e132398a91a8bf1bdb4737ccebc7cbdf64c81fa8a9c3603dd14c4 852 main/binary-arm64/Packages
+ 6ef4460d3a004604bace5e45bf92ad95dbb0e9886b201247d2f5f4d8b3afff96 559 main/binary-arm64/Packages.gz
  45c00e260f45f182c7e0ae24f4845a61652201b13bb20ae1f418b240d0a9f60a 131 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE81uE+oSqu4bkUqHlT7nn0YBXv8sFAmpU7xoACgkQT7nn0YBX
-v8u+6BAAtHc4tR5JTHdkg6WNBKxnHW018StqT+Bdk7OtqKlLSwrqQ7be+zMiNM50
-/yS/Tdfw3+fQ4HDFPRX+5nJuIx6tPB7elgqmoMucLHsQGFzm/Eb/kssU0h3FeYTl
-I7j0R4MbUDFDtROJss6rtL1hiiw4U5b7mIJ9TwEgJ2YvY6Ea1Y1+sKM1wI2CSVMY
-vUtVc73WhbIAupAnwxPjenLzLFOvDcoaIgInnS7GxlBP3Q0xZT6/Y9ClFKJfDrvV
-k3bUpgdb6PqcOf/RJMTs5Tnf3bKIcPz7HpKwjcpMgzeENza3p9NQbFJk+5dHWygB
-huy9VyBFiwfX0oVV5IoirzFYFP812l7nUNbnofm3VG5N+OpQSa32HvGg6q4v64NA
-bv5KL4trqmZdrJ1PXRw7AswitSormyzC0hNCyWteJnEi0RyDjTC1nWp1z9vt4xd+
-hAvx+3Z6VDoFBAsVsy4zd0Hh7PbiRxPvb87N+Gwy7t9tF4BozC3rR4+JJaPy5WTD
-yaO8qoEf3W2dILyY/SQ4kmBTUwwocu0PSBWtuBEMntFWgizTxzQmUzCfPauRm+e7
-SYrIoYcBmtH2D0DVsBpWFvO360Qquyy0KFupoKqrkkrsOhcUdpjxKqBpkg8uXBQG
-pIwTpV5y6pBpY1AgzjT6sElhPD0LcbB+mZw/igCH0u6RmFNYQaA=
-=poWu
+iQIzBAEBCgAdFiEE81uE+oSqu4bkUqHlT7nn0YBXv8sFAmpX+j0ACgkQT7nn0YBX
+v8tAlg/+Pmpfb6LariTNzzGvUhuXUvs/l8iqG0kxoE+pF0i0lzzh2GAv96urjWqN
+s5yR0O3MVRztxZMsqicL5lc3FJrxLAIyGbdigynGpcYvtB5gw8cheLMPU0voVqOp
+laSLI7hTo62l/Ai2fLEMsO+jmWjty/+oOoyKPvr9ED32vmrbcSQbR2o80CAMr7LX
+T9Eymngu2FJW8xt8TcPHSPKgfGwA8+9yDWQAt7T7eHZ3wvTx5ALJg4j7PlEx4AhW
+T2EfboC6jEMp2sN1Ynrl+5shQ0CFCn8v+YlmhhB4fP0C/MaK3bhY+Z/3u/d5uuL4
+RTW1m6FRJz34/6m9FkOjKZEQ7aeaI4knHG/G5vj0We1xPkBktrbg/FzK7nqRBHGq
+1eX31xT5V4c3VHBefqa4MYXJVoAcolhQKq9qzYwU9aPITeOpefQBiwucE9/fapBJ
+ZnTggTZQV/J0L+0MAeScWylKD2OTDFj/RQP9ZRYW1cMNoojgLBM7Exb6d1aVWq0M
+F/vvRmku/YHzFn8eW3ArJOtnNeBOfxuO9xrqVSwlG2CZhlbQhogns/wKBCoUaRk9
+4bem4HcB+8I9myFY3PprRTQcR6FsE+oUxVVHqMbWEiLfpPTTYXaEk9z9IA45SqvE
+ALYRHBNnYfHEQDy07Ly4fKSzfaBgUUp8zj9EDt4NsHlrI7tjRNg=
+=nyLp
 -----END PGP SIGNATURE-----
