@@ -2,28 +2,28 @@ Origin: Neurohelmet
 Label: Neurohelmet
 Suite: stable
 Codename: stable
-Date: Mon, 20 Jul 2026 02:42:44 UTC
+Date: Mon, 20 Jul 2026 03:26:54 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Neurohelmet apt repository
 MD5Sum:
- ab1d388aaf9852d2ae54285b24a920fa 846 main/binary-amd64/Packages
- 4a13186828f48de212d8a15b778d2d6b 557 main/binary-amd64/Packages.gz
+ aab39b5e0abe3f59a03f586c56443183 846 main/binary-amd64/Packages
+ bdba70a0161104b742ef2bdf4b091d64 555 main/binary-amd64/Packages.gz
  4258a6de000a5a2ab264dff0ddd435d8 131 main/binary-amd64/Release
- a9c91e74cc3085f962b878c86b9767dd 852 main/binary-arm64/Packages
- 5fdacf85257f07f3828aaaedeffa7ae4 557 main/binary-arm64/Packages.gz
+ f52e6eb7d760a2a0d5291228db6c8367 852 main/binary-arm64/Packages
+ 3f061b0e2ae1d032b87b087c4cef203a 558 main/binary-arm64/Packages.gz
  b8ca56130aa8a39d6c1b119e6626b12b 131 main/binary-arm64/Release
 SHA1:
- 631e59a05fdb52a7246070681d689b9c719f7fe9 846 main/binary-amd64/Packages
- c531cc61b223c70de76f57db4a13fbf70ebf7a2f 557 main/binary-amd64/Packages.gz
+ 07d206b28d274f29625d6d83216edba5d77ddea3 846 main/binary-amd64/Packages
+ 529f6bb8a5b9301c746d3a6f02de47d26aa33630 555 main/binary-amd64/Packages.gz
  0c37d35641fd2797737011337278b7007b002482 131 main/binary-amd64/Release
- 3b81cacf0e255b2e0208b7125ad20387be58348c 852 main/binary-arm64/Packages
- dee8ee23eb5b9e001e1ef45eb06e0c08d2927986 557 main/binary-arm64/Packages.gz
+ 2506da251bcbf1afd83b7872b369f5087ed830c2 852 main/binary-arm64/Packages
+ b0caa1f4f04b593c091ffaf8178054450976e33b 558 main/binary-arm64/Packages.gz
  30871e60951b91eff3b30606054b1a78dab66ed3 131 main/binary-arm64/Release
 SHA256:
- e588eab75f71f9f18268422b4d9ce9005e4d251205d985196dcfaddfa757487a 846 main/binary-amd64/Packages
- de7c3ecf00dc87b7e2513e78e82301e93eaac009898effb3d902a6da8c53ca40 557 main/binary-amd64/Packages.gz
+ b80cc950e7154a7bcf7b1b0200dc87fe0c792d54c9e12a99b888e6b3470589f6 846 main/binary-amd64/Packages
+ 30580b8d7faf01593fce5cd177ccd3f8f65a11e952c523c0e36df7e3c8b10d4a 555 main/binary-amd64/Packages.gz
  6118a1a71354e5a7628502f0b8206bd36bddc1d4ec69dfd1b7d47a1a1ff6883d 131 main/binary-amd64/Release
- 973fca1419c71ce08119706efa94509a77d5ce2bec0378e5867ffdcaf3f802ab 852 main/binary-arm64/Packages
- 3ea624552bd2aa91e27c81955cc4649fddb39b0a85672c0d029ae2f895e5b043 557 main/binary-arm64/Packages.gz
+ acbcb9965d843c9e2f54a2dca91fa37852d9dd7cdced576a926d171cca8c7c49 852 main/binary-arm64/Packages
+ 4333f9fb5d5a1f17ef15f1583dc63a4b22bcb4f06a4d7df5d08d6d9ad41df7e5 558 main/binary-arm64/Packages.gz
  45c00e260f45f182c7e0ae24f4845a61652201b13bb20ae1f418b240d0a9f60a 131 main/binary-arm64/Release
